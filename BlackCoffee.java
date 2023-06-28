@@ -1,8 +1,6 @@
 /**
  * @author Yousif Sabri
  * @Version 1.0
- * @date 6/28/2023
- * CS 160 Lab Summer 2023
  */
 
 import java.util.ArrayList;
